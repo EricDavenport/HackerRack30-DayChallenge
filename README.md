@@ -1,1 +1,1 @@
-# HackerRack30-DayChallenge
+# Hacker Rank 30-Day Challenge
