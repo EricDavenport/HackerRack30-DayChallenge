@@ -17,7 +17,9 @@ In this challenge, we review some basic concepts that will get you started with 
 Objective -
 Using the + operator print the given variables either added or concantenated(String) with the declared variables
 
-
+[Day 2](https://github.com/EricDavenport/HackerRank30-DayChallenge/blob/primary/HackerRankDay1/HackerRankDay1/Day2_Operators.swift)
+Objective -
+Return the total of a given meal total price. Double value for meal price, Int for tip percentage and Int for tax percentage. Print the total meal cost as an Int (view Day 1 link to see working code) using single command line page)
 
 
 
