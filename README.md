@@ -13,6 +13,9 @@ want to join challenge? [Join Challenge](https://www.hackerrank.com/domains/tuto
 Objective -
 In this challenge, we review some basic concepts that will get you started with this series. You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank. 
 
+[Day 1](https://github.com/EricDavenport/HackerRank30-DayChallenge/blob/primary/HackerRankDay1/HackerRankDay1/main.swift)
+Objective -
+Using the + operator print the given variables either added or concantenated(String) with the declared variables
 
 
 
