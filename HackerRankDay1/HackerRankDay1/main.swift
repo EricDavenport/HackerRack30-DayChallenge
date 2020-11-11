@@ -7,6 +7,7 @@
 //
 import Foundation
 
+// DAY 1 - Data Types
 var i = 4
 var d = 4.0
 var s = "HackerRank "
@@ -42,3 +43,23 @@ var test = Int(readLine()!)
 
 print(string + test!)
 */
+
+// Day 2 - operators
+let meal_cost = Double(readLine()!)
+let tip_percent = Int(readLine()!)
+let tax_percent = Int(readLine()!)
+
+let tip = (Double(tip_percent!) / 100.00) * meal_cost!
+let tax = (Double(tax_percent!) / 100.00) * meal_cost!
+let mealTotal = round(meal_cost! + tip + tax)
+print("Tip = \(tip)")
+print("Tax = \(tax)")
+print(meal_cost!)
+print(round(meal_cost!))
+print(Int(mealTotal))
+print(mealTotal)
+//func printTotal() {
+//  print(mealTotal)
+//}
+//printTotal()
+
